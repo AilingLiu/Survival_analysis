@@ -15,5 +15,5 @@ Table of Content:
 
 
 Reference:
-[Survival Analysis in R Public Health](https://www.coursera.org/learn/survival-analysis-r-public-health)
-[The Customer as The Unit of Analysis: Models, Metrics and a Multitude of Uses | Second Measure](https://www.youtube.com/watch?v=HR4Cj9rhnII)
+* [Survival Analysis in R Public Health](https://www.coursera.org/learn/survival-analysis-r-public-health)
+* [The Customer as The Unit of Analysis: Models, Metrics and a Multitude of Uses | Second Measure](https://www.youtube.com/watch?v=HR4Cj9rhnII)
