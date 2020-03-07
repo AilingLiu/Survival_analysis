@@ -5,6 +5,13 @@ Use Survival analysis to solve business problem, such as:
 
 Table of Content:
 * life table Kaplan Meier plot
+* Log-rank test
+* Hazard Function and Ratio
+* Simple Cox model
+* Multiple Cox model
+* Use Survival analysis in predicting Churn Rate
+* Use Survival analysis in predicting Customer Lifetime Value
+
 
 
 Reference:
