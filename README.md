@@ -13,6 +13,8 @@ Table of Content:
 * Use Survival analysis in predicting Customer Lifetime Value
 
 
+Data:
+* [simulated HF mort data for GMPH(1k)](https://drive.google.com/open?id=1BY3vOXDQWSlRtK2mKhAtRwIR-vzoDm-4)
 
 Reference:
 * [Survival Analysis in R Public Health](https://www.coursera.org/learn/survival-analysis-r-public-health)
