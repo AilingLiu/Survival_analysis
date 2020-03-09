@@ -19,6 +19,6 @@ Data:
 Reference:
 * [Survival Analysis in R Public Health](https://www.coursera.org/learn/survival-analysis-r-public-health)
 * [The Customer as The Unit of Analysis: Models, Metrics and a Multitude of Uses | Second Measure](https://www.youtube.com/watch?v=HR4Cj9rhnII)
-* [Survival Model Forulas](https://data.princeton.edu/wws509/notes/c7s1)
+* [Survival Model Formulas](https://data.princeton.edu/wws509/notes/c7s1)
 * [The prevention and handling of the missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/)
 * [Cox model assumptions](http://www.sthda.com/english/wiki/cox-model-assumptions)
