@@ -15,6 +15,7 @@ Table of Content:
 
 Data:
 * [simulated HF mort data for GMPH(1k)](https://drive.google.com/open?id=1BY3vOXDQWSlRtK2mKhAtRwIR-vzoDm-4)
+* [Telco Churn](https://www.kaggle.com/c/telco-churn/data)
 
 Reference:
 * [Survival Analysis in R Public Health](https://www.coursera.org/learn/survival-analysis-r-public-health)
@@ -22,3 +23,4 @@ Reference:
 * [Survival Model Formulas](https://data.princeton.edu/wws509/notes/c7s1)
 * [The prevention and handling of the missing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668100/)
 * [Cox model assumptions](http://www.sthda.com/english/wiki/cox-model-assumptions)
+* [Lifetime](https://github.com/CamDavidsonPilon/lifelines/tree/master/examples)
